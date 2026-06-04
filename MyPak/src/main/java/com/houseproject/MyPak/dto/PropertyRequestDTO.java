@@ -1,7 +1,4 @@
 package com.houseproject.MyPak.dto;
-
-import org.springframework.security.core.parameters.P;
-
 import com.houseproject.MyPak.model.PropertyType;
 
 import jakarta.validation.constraints.NotBlank;
@@ -38,5 +35,4 @@ public class PropertyRequestDTO {
 
     private Double superficie;
     
-
 }
