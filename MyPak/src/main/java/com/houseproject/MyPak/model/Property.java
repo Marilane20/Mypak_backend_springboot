@@ -42,6 +42,8 @@ public class Property {
     private Integer nombrePieces;
     private Double superficies;
     private LocalDateTime createdAt;
+    @Enumerated(EnumType.STRING)
+    private PropertyStatut PropertyStatus;
 
     @PrePersist
     protected void Oncrate() {
