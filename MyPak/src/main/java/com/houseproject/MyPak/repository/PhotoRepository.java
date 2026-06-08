@@ -1,4 +1,4 @@
-package com.houseproject.repository;
+package com.houseproject.MyPak.repository;
 
 import java.util.List;
 

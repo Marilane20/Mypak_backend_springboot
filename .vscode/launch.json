@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MyPakApplication<MyPak>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.houseproject.MyPak.MyPakApplication",
+            "projectName": "MyPak",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
